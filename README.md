@@ -1,16 +1,9 @@
-# unidays
-
-A new Flutter project.
+# UNIDAYS
+A Flutter application that provides students with access to discounts from various merchants.
 
 ## Getting Started
+This project serves as a starting point for a Flutter application aimed at helping students claim discounts effectively.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Key Features**
+  - User registration for students to claim discounts.
+  - Merchants can post and manage discount offerings.
